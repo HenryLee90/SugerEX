@@ -1,0 +1,16 @@
+C:\Users\hlee0\OneDrive\Desktop\repos\SugarEx\SugarEx\bin\Debug\net5.0\SugarEx.exe
+C:\Users\hlee0\OneDrive\Desktop\repos\SugarEx\SugarEx\bin\Debug\net5.0\SugarEx.deps.json
+C:\Users\hlee0\OneDrive\Desktop\repos\SugarEx\SugarEx\bin\Debug\net5.0\SugarEx.runtimeconfig.json
+C:\Users\hlee0\OneDrive\Desktop\repos\SugarEx\SugarEx\bin\Debug\net5.0\SugarEx.runtimeconfig.dev.json
+C:\Users\hlee0\OneDrive\Desktop\repos\SugarEx\SugarEx\bin\Debug\net5.0\SugarEx.dll
+C:\Users\hlee0\OneDrive\Desktop\repos\SugarEx\SugarEx\bin\Debug\net5.0\SugarEx.pdb
+C:\Users\hlee0\OneDrive\Desktop\repos\SugarEx\SugarEx\obj\Debug\net5.0\SugarEx.csproj.AssemblyReference.cache
+C:\Users\hlee0\OneDrive\Desktop\repos\SugarEx\SugarEx\obj\Debug\net5.0\SugarEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlee0\OneDrive\Desktop\repos\SugarEx\SugarEx\obj\Debug\net5.0\SugarEx.AssemblyInfoInputs.cache
+C:\Users\hlee0\OneDrive\Desktop\repos\SugarEx\SugarEx\obj\Debug\net5.0\SugarEx.AssemblyInfo.cs
+C:\Users\hlee0\OneDrive\Desktop\repos\SugarEx\SugarEx\obj\Debug\net5.0\SugarEx.csproj.CoreCompileInputs.cache
+C:\Users\hlee0\OneDrive\Desktop\repos\SugarEx\SugarEx\obj\Debug\net5.0\SugarEx.dll
+C:\Users\hlee0\OneDrive\Desktop\repos\SugarEx\SugarEx\obj\Debug\net5.0\refint\SugarEx.dll
+C:\Users\hlee0\OneDrive\Desktop\repos\SugarEx\SugarEx\obj\Debug\net5.0\SugarEx.pdb
+C:\Users\hlee0\OneDrive\Desktop\repos\SugarEx\SugarEx\obj\Debug\net5.0\SugarEx.genruntimeconfig.cache
+C:\Users\hlee0\OneDrive\Desktop\repos\SugarEx\SugarEx\obj\Debug\net5.0\ref\SugarEx.dll
